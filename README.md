@@ -1,14 +1,15 @@
 # MOD_MMCinductor
 This software is made for the manuscript "Model-Based Design for Reactors of the Modular Multilevel Converter", IEEE Transactions on Power Electronics
 
-![Alt text](/GUI_figure.png)
-
+![Alt text](/images/method_figure.png)
 
 *created by MATLAB 2021a
 
 *list
-1) Folder: MMC_short_circuit_inductor_feasible_range_app
+## 1) Folder: MMC_short_circuit_inductor_feasible_range_app
 a MATLAB software with GUI to obtain the feasible region of the DC and AC loop equivalent inductance
+
+![Alt text](/images/GUI_figure.png)
 
 How to use the app
 1-1) launch MATLAB software
@@ -19,11 +20,15 @@ How to use the app
 
 
 
-2) Leqdc_Leqac_feasible_region.m
+## 2) Leqdc_Leqac_feasible_region.m
 a .mat file to obtain the feasible region of the DC and AC loop equivalent inductance
 
-3) Leqdc_Leqac_to_have_arm_inductance_considering_multiple_constraints.m
+![Alt text](/images/Leqdc_Leqac_figure.png)
+
+## 3) Leqdc_Leqac_to_have_arm_inductance_considering_multiple_constraints.m
 a .mat file to obtain the arm inductance L_0 by the feasible region of the DC and AC loop equivalent inductance
+
+![Alt text](/images/all_conditions_figure.png)
 
 *contact
 Yi Zhang, yiz@ieee.org, AAU Energy, Aalborg University, Denmark
