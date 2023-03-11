@@ -12,10 +12,15 @@ a MATLAB software with GUI to obtain the feasible region of the DC and AC loop e
 ![Alt text](/images/GUI_figure.png)
 
 How to use the app
+
 1-1) launch MATLAB software
+
 1-2) click "APPS" tab
+
 1-3) click "Install App"
+
 1-4) find the location of the downloaded file
+
 1-5) click the installed App "MMC_SC_IndDesign_v1" to use it
 
 
