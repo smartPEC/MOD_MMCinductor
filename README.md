@@ -1,6 +1,9 @@
 # MOD_MMCinductor
 This software is made for the manuscript "Model-Based Design for Reactors of the Modular Multilevel Converter", IEEE Transactions on Power Electronics
 
+![Alt text](/GUI_figure.png)
+
+
 *created by MATLAB 2021a
 
 *list
